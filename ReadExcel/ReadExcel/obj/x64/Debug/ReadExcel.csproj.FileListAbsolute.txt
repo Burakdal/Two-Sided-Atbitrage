@@ -1,0 +1,7 @@
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\bin\x64\Debug\ReadExcel.exe
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\bin\x64\Debug\ReadExcel.pdb
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.csproj.ResolveComReference.cache
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.csproj.CopyComplete
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.exe
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.pdb

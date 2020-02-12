@@ -1,0 +1,6 @@
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojAssemblyReference.cache
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.ResolveComReference.cache
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+C:\Users\Burak Dal\source\repos\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
